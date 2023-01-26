@@ -1,4 +1,9 @@
-function playMusic() {
-    var music = new Audio('devilInANewDress.mp3');
-    music.play();
+var GFG = document.getElementById("idAudio");
+
+function playAudio() {
+    GFG.play();
+}
+
+function pauseAudio() {
+    GFG.pause();
 }
