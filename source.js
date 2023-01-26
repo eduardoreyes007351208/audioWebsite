@@ -1,4 +1,4 @@
-var GFG = document.getElementById("idAudio");
+/*var GFG = document.getElementById("idAudio");
 
 function playAudio() {
     GFG.play();
@@ -6,4 +6,4 @@ function playAudio() {
 
 function pauseAudio() {
     GFG.pause();
-}
+}*/
